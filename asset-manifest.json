@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/oliveWebsite/static/css/main.c98ff706.chunk.css",
+    "main.css": "/oliveWebsite/static/css/main.3f22632d.chunk.css",
     "main.js": "/oliveWebsite/static/js/main.9b401b6a.chunk.js",
     "main.js.map": "/oliveWebsite/static/js/main.9b401b6a.chunk.js.map",
     "runtime-main.js": "/oliveWebsite/static/js/runtime-main.67937dbe.js",
@@ -12,7 +12,7 @@
     "static/js/3.ab80a13b.chunk.js.map": "/oliveWebsite/static/js/3.ab80a13b.chunk.js.map",
     "index.html": "/oliveWebsite/index.html",
     "static/css/2.ae63a4b7.chunk.css.map": "/oliveWebsite/static/css/2.ae63a4b7.chunk.css.map",
-    "static/css/main.c98ff706.chunk.css.map": "/oliveWebsite/static/css/main.c98ff706.chunk.css.map",
+    "static/css/main.3f22632d.chunk.css.map": "/oliveWebsite/static/css/main.3f22632d.chunk.css.map",
     "static/js/2.c5428aab.chunk.js.LICENSE.txt": "/oliveWebsite/static/js/2.c5428aab.chunk.js.LICENSE.txt",
     "static/media/App.scss": "/oliveWebsite/static/media/helvetica-neu.8a196780.ttf",
     "static/media/logo-s.3761f266.png": "/oliveWebsite/static/media/logo-s.3761f266.png",
@@ -22,7 +22,7 @@
     "static/js/runtime-main.67937dbe.js",
     "static/css/2.ae63a4b7.chunk.css",
     "static/js/2.c5428aab.chunk.js",
-    "static/css/main.c98ff706.chunk.css",
+    "static/css/main.3f22632d.chunk.css",
     "static/js/main.9b401b6a.chunk.js"
   ]
 }
